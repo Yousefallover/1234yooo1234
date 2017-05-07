@@ -6,7 +6,11 @@ Egy-ArabUnitedAirlines
 </name>
 </assembly>
 <members>
-<member name="P:Egy_Arab_United_Airlines.My.Resources.Resources.ResourceManager">
+<member name="T:Egy_Arab_United_Airlines.Database1DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:Egy_Arab_United_Airlines.My.Resources.Resources.ResourceManager">
 	<summary>
   Returns the cached ResourceManager instance used by this class.
 </summary>

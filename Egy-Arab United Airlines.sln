@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Basic Express 2010
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Egy-Arab United Airlines", "Egy-Arab United Airlines\Egy-Arab United Airlines.vbproj", "{8050036E-463A-4AD5-B800-6D62FC1E5688}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sohag-Egy United Airlines", "Egy-Arab United Airlines\Sohag-Egy United Airlines.vbproj", "{8050036E-463A-4AD5-B800-6D62FC1E5688}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
